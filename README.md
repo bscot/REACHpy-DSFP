@@ -4,7 +4,7 @@ This is the GitHub repository for the LSSTC Data Science Fellowship Program's fo
 
 Prior to attending your first DSFP session, you should review the material in Modules 1-3, with a particular focus on list comprehension, pandas, and plotting in matplotlib. These will be essential tools for completing DSFP exercises. Please let us know if you notice gaps in the material covered by these tutorials. 
 
-# REACHpy Original Readme Continues Below: 
+# REACHpy Original Readme Continues Below
 
 The course is presented in the form of Google Colab notebooks and assumes no prior knowledge of Python. Each module introduces a new larger topic in Python, as well as at least one challenge set at the completion of module sections. These notebooks can also be downloaded and used in a Jupyter environment.
 
