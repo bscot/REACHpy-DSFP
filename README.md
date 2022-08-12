@@ -1,6 +1,8 @@
-# REACHpy
+# REACHpy for the DSFP
 
-This is the GitHub repository for CIERA's REACH program. This is built on the IDEASpy package, an introductory Python course tailored to those interested in scientific computing and data science. The course is presented in the form of Google Colab notebooks and assumes no prior knowledge of Python. Each module introduces a new larger topic in Python, as well as at least one challenge set at the completion of module sections. These notebooks can also be downloaded and used in a Jupyter environment.
+This is the GitHub repository for the LSSTC Data Science Fellowship Program's fork of CIERA's REACH program python tutorials. The REACHpy tutorials are built on the IDEASpy package, an introductory Python course tailored to those interested in scientific computing and data science. Please contact xxxx if you encounter difficulties or have DSFP specific questions. 
+
+The course is presented in the form of Google Colab notebooks and assumes no prior knowledge of Python. Each module introduces a new larger topic in Python, as well as at least one challenge set at the completion of module sections. These notebooks can also be downloaded and used in a Jupyter environment.
 
 The modules cover the following topics:
 
